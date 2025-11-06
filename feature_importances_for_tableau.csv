@@ -1,0 +1,28 @@
+Feature,Importance
+Income,0.2340672662052078
+TimeOnWebsite_Minutes,0.17494199824804724
+Age,0.14928431097258524
+WebsiteVisits_PreConversion,0.09020513922900941
+Gender_Male,0.028253018135358555
+LeadSource_Online Ad,0.025979962394160273
+InitialProductInterest_Credit Card,0.022968550916261952
+InitialProductInterest_Mortgage,0.022513193418498622
+MaritalStatus_Married,0.020885822297672316
+MaritalStatus_Single,0.019594119766544574
+LeadSource_Social Media,0.01775163445990585
+EmploymentStatus_Part-time,0.01752266769870873
+InitialProductInterest_Investment,0.017435116366640156
+LeadSource_Partnership,0.01703595939370033
+EmploymentStatus_Student,0.015698260575656403
+Province_Ontario,0.01483078029634657
+EmploymentStatus_Unemployed,0.014545238058541934
+LeadSource_Referral,0.01403345704666279
+EmploymentStatus_Self-employed,0.013750795089222851
+Province_Quebec,0.013042666973568704
+Province_British Columbia,0.0113877576717042
+Province_Manitoba,0.010572206742845678
+Gender_Other,0.008863879181012396
+Province_Nova Scotia,0.008166924737670224
+MaritalStatus_Widowed,0.006499009612971673
+EmploymentStatus_Unknown,0.005757930089265033
+Province_Unknown,0.004412334422230483
