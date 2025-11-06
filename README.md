@@ -83,3 +83,10 @@ The analysis uses anonymized customer lead data with key features including:
 
 ---
 
+## Detailed Data Cleaning
+
+If you’d like to explore the **full, in-depth data cleaning workflow** including handling outliers, removing duplicates, correcting spelling errors, and cleaning redundant values and more, you can follow the step-by-step code in this file:  
+
+- BankProject-Data Cleaning in depth.ipynb)
+
+This file provides a comprehensive guide for anyone interested in learning more from the data preprocessing process.
